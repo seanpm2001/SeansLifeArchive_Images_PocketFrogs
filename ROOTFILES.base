@@ -14,10 +14,16 @@
 /INSTALL
 /K.desktop
 /LICENSE-GPL.nim
+/LICENSE-GPL.nimble
+/LICENSE-GPL.nimrod
 /LICENSE-GPL.txt
 /LICENSE-GPL3.nim
+/LICENSE-GPL3.nimble
+/LICENSE-GPL3.nimrod
 /LICENSE-GPL3.txt
 /LICENSE.nim
+/LICENSE.nimble
+/LICENSE.nimrod
 /LICENSE.txt
 /NimbleBit_Logo.png
 /PROJECT_LANG_1.nim
